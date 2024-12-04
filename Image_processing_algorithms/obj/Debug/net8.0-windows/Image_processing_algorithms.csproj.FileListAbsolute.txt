@@ -1,0 +1,16 @@
+C:\Users\Данил\OneDrive\Desktop\КГ\Лабораторная работа 4\Image_processing_algorithms\Image_processing_algorithms\bin\Debug\net8.0-windows\Image_processing_algorithms.exe
+C:\Users\Данил\OneDrive\Desktop\КГ\Лабораторная работа 4\Image_processing_algorithms\Image_processing_algorithms\bin\Debug\net8.0-windows\Image_processing_algorithms.deps.json
+C:\Users\Данил\OneDrive\Desktop\КГ\Лабораторная работа 4\Image_processing_algorithms\Image_processing_algorithms\bin\Debug\net8.0-windows\Image_processing_algorithms.runtimeconfig.json
+C:\Users\Данил\OneDrive\Desktop\КГ\Лабораторная работа 4\Image_processing_algorithms\Image_processing_algorithms\bin\Debug\net8.0-windows\Image_processing_algorithms.dll
+C:\Users\Данил\OneDrive\Desktop\КГ\Лабораторная работа 4\Image_processing_algorithms\Image_processing_algorithms\bin\Debug\net8.0-windows\Image_processing_algorithms.pdb
+C:\Users\Данил\OneDrive\Desktop\КГ\Лабораторная работа 4\Image_processing_algorithms\Image_processing_algorithms\obj\Debug\net8.0-windows\Image_processing_algorithms.Form1.resources
+C:\Users\Данил\OneDrive\Desktop\КГ\Лабораторная работа 4\Image_processing_algorithms\Image_processing_algorithms\obj\Debug\net8.0-windows\Image_processing_algorithms.csproj.GenerateResource.cache
+C:\Users\Данил\OneDrive\Desktop\КГ\Лабораторная работа 4\Image_processing_algorithms\Image_processing_algorithms\obj\Debug\net8.0-windows\Image_processing_algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\OneDrive\Desktop\КГ\Лабораторная работа 4\Image_processing_algorithms\Image_processing_algorithms\obj\Debug\net8.0-windows\Image_processing_algorithms.AssemblyInfoInputs.cache
+C:\Users\Данил\OneDrive\Desktop\КГ\Лабораторная работа 4\Image_processing_algorithms\Image_processing_algorithms\obj\Debug\net8.0-windows\Image_processing_algorithms.AssemblyInfo.cs
+C:\Users\Данил\OneDrive\Desktop\КГ\Лабораторная работа 4\Image_processing_algorithms\Image_processing_algorithms\obj\Debug\net8.0-windows\Image_processing_algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Данил\OneDrive\Desktop\КГ\Лабораторная работа 4\Image_processing_algorithms\Image_processing_algorithms\obj\Debug\net8.0-windows\Image_processing_algorithms.dll
+C:\Users\Данил\OneDrive\Desktop\КГ\Лабораторная работа 4\Image_processing_algorithms\Image_processing_algorithms\obj\Debug\net8.0-windows\refint\Image_processing_algorithms.dll
+C:\Users\Данил\OneDrive\Desktop\КГ\Лабораторная работа 4\Image_processing_algorithms\Image_processing_algorithms\obj\Debug\net8.0-windows\Image_processing_algorithms.pdb
+C:\Users\Данил\OneDrive\Desktop\КГ\Лабораторная работа 4\Image_processing_algorithms\Image_processing_algorithms\obj\Debug\net8.0-windows\Image_processing_algorithms.genruntimeconfig.cache
+C:\Users\Данил\OneDrive\Desktop\КГ\Лабораторная работа 4\Image_processing_algorithms\Image_processing_algorithms\obj\Debug\net8.0-windows\ref\Image_processing_algorithms.dll
